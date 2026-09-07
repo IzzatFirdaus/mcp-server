@@ -1,0 +1,1 @@
+"""Test package — pure-function unit tests (no MCP runtime required)."""
